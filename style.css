@@ -1,0 +1,8 @@
+/* dev-journey — Stylesheet */
+
+:root {
+  --step-001: 1; /* Add initial project structure */
+}
+
+body { margin: 0; font-family: sans-serif; }
+/* v1/100 */
