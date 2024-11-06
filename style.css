@@ -3,7 +3,8 @@
 :root {
   --step-001: 1; /* Add initial project structure */
   --step-002: 1; /* Update README with project goals */
+  --step-003: 1; /* Add HTML boilerplate */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v2/100 */
+/* v3/100 */
