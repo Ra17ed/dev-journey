@@ -5,7 +5,8 @@
   --step-002: 1; /* Update README with project goals */
   --step-003: 1; /* Add HTML boilerplate */
   --step-004: 1; /* Style the main page layout */
+  --step-005: 1; /* Fix typo in README */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v4/100 */
+/* v5/100 */
