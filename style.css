@@ -7,7 +7,8 @@
   --step-004: 1; /* Style the main page layout */
   --step-005: 1; /* Fix typo in README */
   --step-006: 1; /* Add navigation bar */
+  --step-007: 1; /* Improve heading typography */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v6/100 */
+/* v7/100 */

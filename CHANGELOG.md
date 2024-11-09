@@ -6,3 +6,4 @@
 [2024-11-06] #004: Style the main page layout
 [2024-11-07] #005: Fix typo in README
 [2024-11-09] #006: Add navigation bar
+[2024-11-09] #007: Improve heading typography
