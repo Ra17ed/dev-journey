@@ -8,7 +8,8 @@
   --step-005: 1; /* Fix typo in README */
   --step-006: 1; /* Add navigation bar */
   --step-007: 1; /* Improve heading typography */
+  --step-008: 1; /* Add footer section */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v7/100 */
+/* v8/100 */
