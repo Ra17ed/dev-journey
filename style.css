@@ -9,7 +9,8 @@
   --step-006: 1; /* Add navigation bar */
   --step-007: 1; /* Improve heading typography */
   --step-008: 1; /* Add footer section */
+  --step-009: 1; /* Update color scheme */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v8/100 */
+/* v9/100 */

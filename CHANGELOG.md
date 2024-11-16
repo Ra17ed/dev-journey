@@ -8,3 +8,4 @@
 [2024-11-09] #006: Add navigation bar
 [2024-11-09] #007: Improve heading typography
 [2024-11-14] #008: Add footer section
+[2024-11-16] #009: Update color scheme
