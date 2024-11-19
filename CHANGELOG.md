@@ -12,3 +12,4 @@
 [2024-11-16] #010: Add meta description
 [2024-11-17] #011: Fix spacing issues
 [2024-11-19] #012: Add about section
+[2024-11-19] #013: Improve mobile responsiveness

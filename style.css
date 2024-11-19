@@ -13,7 +13,8 @@
   --step-010: 1; /* Add meta description */
   --step-011: 1; /* Fix spacing issues */
   --step-012: 1; /* Add about section */
+  --step-013: 1; /* Improve mobile responsiveness */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v12/100 */
+/* v13/100 */
