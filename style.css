@@ -14,7 +14,8 @@
   --step-011: 1; /* Fix spacing issues */
   --step-012: 1; /* Add about section */
   --step-013: 1; /* Improve mobile responsiveness */
+  --step-014: 1; /* Add link hover effects */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v13/100 */
+/* v14/100 */

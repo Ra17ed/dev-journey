@@ -13,3 +13,4 @@
 [2024-11-17] #011: Fix spacing issues
 [2024-11-19] #012: Add about section
 [2024-11-19] #013: Improve mobile responsiveness
+[2024-11-19] #014: Add link hover effects
