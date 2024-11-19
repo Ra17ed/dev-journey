@@ -12,7 +12,8 @@
   --step-009: 1; /* Update color scheme */
   --step-010: 1; /* Add meta description */
   --step-011: 1; /* Fix spacing issues */
+  --step-012: 1; /* Add about section */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v11/100 */
+/* v12/100 */
