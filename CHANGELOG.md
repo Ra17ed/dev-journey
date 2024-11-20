@@ -15,3 +15,4 @@
 [2024-11-19] #013: Improve mobile responsiveness
 [2024-11-19] #014: Add link hover effects
 [2024-11-20] #015: Update page title
+[2024-11-20] #016: Add contact info section
