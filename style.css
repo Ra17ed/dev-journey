@@ -17,7 +17,8 @@
   --step-014: 1; /* Add link hover effects */
   --step-015: 1; /* Update page title */
   --step-016: 1; /* Add contact info section */
+  --step-017: 1; /* Refactor CSS variables */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v16/100 */
+/* v17/100 */

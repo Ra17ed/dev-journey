@@ -16,3 +16,4 @@
 [2024-11-19] #014: Add link hover effects
 [2024-11-20] #015: Update page title
 [2024-11-20] #016: Add contact info section
+[2024-11-20] #017: Refactor CSS variables
