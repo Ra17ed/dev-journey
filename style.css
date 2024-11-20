@@ -15,7 +15,8 @@
   --step-012: 1; /* Add about section */
   --step-013: 1; /* Improve mobile responsiveness */
   --step-014: 1; /* Add link hover effects */
+  --step-015: 1; /* Update page title */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v14/100 */
+/* v15/100 */
