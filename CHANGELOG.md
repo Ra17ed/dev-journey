@@ -17,3 +17,4 @@
 [2024-11-20] #015: Update page title
 [2024-11-20] #016: Add contact info section
 [2024-11-20] #017: Refactor CSS variables
+[2024-11-22] #018: Add smooth scroll behavior

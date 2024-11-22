@@ -18,7 +18,8 @@
   --step-015: 1; /* Update page title */
   --step-016: 1; /* Add contact info section */
   --step-017: 1; /* Refactor CSS variables */
+  --step-018: 1; /* Add smooth scroll behavior */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v17/100 */
+/* v18/100 */
