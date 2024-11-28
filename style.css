@@ -20,7 +20,8 @@
   --step-017: 1; /* Refactor CSS variables */
   --step-018: 1; /* Add smooth scroll behavior */
   --step-019: 1; /* Update font styling */
+  --step-020: 1; /* Fix button alignment */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v19/100 */
+/* v20/100 */
