@@ -20,3 +20,4 @@
 [2024-11-22] #018: Add smooth scroll behavior
 [2024-11-25] #019: Update font styling
 [2024-11-28] #020: Fix button alignment
+[2024-12-01] #021: Add hero section

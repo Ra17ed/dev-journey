@@ -21,7 +21,8 @@
   --step-018: 1; /* Add smooth scroll behavior */
   --step-019: 1; /* Update font styling */
   --step-020: 1; /* Fix button alignment */
+  --step-021: 1; /* Add hero section */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v20/100 */
+/* v21/100 */
