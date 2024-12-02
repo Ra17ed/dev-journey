@@ -23,7 +23,8 @@
   --step-020: 1; /* Fix button alignment */
   --step-021: 1; /* Add hero section */
   --step-022: 1; /* Improve accessibility labels */
+  --step-023: 1; /* Update background gradient */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v22/100 */
+/* v23/100 */
