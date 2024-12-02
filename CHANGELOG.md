@@ -21,3 +21,4 @@
 [2024-11-25] #019: Update font styling
 [2024-11-28] #020: Fix button alignment
 [2024-12-01] #021: Add hero section
+[2024-12-02] #022: Improve accessibility labels
