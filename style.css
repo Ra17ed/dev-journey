@@ -24,7 +24,8 @@
   --step-021: 1; /* Add hero section */
   --step-022: 1; /* Improve accessibility labels */
   --step-023: 1; /* Update background gradient */
+  --step-024: 1; /* Add skip navigation link */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v23/100 */
+/* v24/100 */
