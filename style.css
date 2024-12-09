@@ -25,7 +25,8 @@
   --step-022: 1; /* Improve accessibility labels */
   --step-023: 1; /* Update background gradient */
   --step-024: 1; /* Add skip navigation link */
+  --step-025: 1; /* Fix contrast ratio issues */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v24/100 */
+/* v25/100 */
