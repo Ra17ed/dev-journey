@@ -26,7 +26,8 @@
   --step-023: 1; /* Update background gradient */
   --step-024: 1; /* Add skip navigation link */
   --step-025: 1; /* Fix contrast ratio issues */
+  --step-026: 1; /* Add loading animation */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v25/100 */
+/* v26/100 */

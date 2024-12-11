@@ -25,3 +25,4 @@
 [2024-12-02] #023: Update background gradient
 [2024-12-08] #024: Add skip navigation link
 [2024-12-09] #025: Fix contrast ratio issues
+[2024-12-11] #026: Add loading animation
