@@ -27,7 +27,8 @@
   --step-024: 1; /* Add skip navigation link */
   --step-025: 1; /* Fix contrast ratio issues */
   --step-026: 1; /* Add loading animation */
+  --step-027: 1; /* Clean up unused styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v26/100 */
+/* v27/100 */

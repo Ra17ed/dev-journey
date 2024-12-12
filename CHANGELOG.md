@@ -26,3 +26,4 @@
 [2024-12-08] #024: Add skip navigation link
 [2024-12-09] #025: Fix contrast ratio issues
 [2024-12-11] #026: Add loading animation
+[2024-12-12] #027: Clean up unused styles
