@@ -28,3 +28,4 @@
 [2024-12-11] #026: Add loading animation
 [2024-12-12] #027: Clean up unused styles
 [2024-12-13] #028: Add portfolio placeholder
+[2024-12-13] #029: Update card component

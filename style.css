@@ -29,7 +29,8 @@
   --step-026: 1; /* Add loading animation */
   --step-027: 1; /* Clean up unused styles */
   --step-028: 1; /* Add portfolio placeholder */
+  --step-029: 1; /* Update card component */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v28/100 */
+/* v29/100 */
