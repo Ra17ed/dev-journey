@@ -28,7 +28,8 @@
   --step-025: 1; /* Fix contrast ratio issues */
   --step-026: 1; /* Add loading animation */
   --step-027: 1; /* Clean up unused styles */
+  --step-028: 1; /* Add portfolio placeholder */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v27/100 */
+/* v28/100 */
