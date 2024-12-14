@@ -30,7 +30,8 @@
   --step-027: 1; /* Clean up unused styles */
   --step-028: 1; /* Add portfolio placeholder */
   --step-029: 1; /* Update card component */
+  --step-030: 1; /* Fix image alt text */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v29/100 */
+/* v30/100 */

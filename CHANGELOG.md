@@ -29,3 +29,4 @@
 [2024-12-12] #027: Clean up unused styles
 [2024-12-13] #028: Add portfolio placeholder
 [2024-12-13] #029: Update card component
+[2024-12-14] #030: Fix image alt text
