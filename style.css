@@ -31,7 +31,8 @@
   --step-028: 1; /* Add portfolio placeholder */
   --step-029: 1; /* Update card component */
   --step-030: 1; /* Fix image alt text */
+  --step-031: 1; /* Add social media links */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v30/100 */
+/* v31/100 */

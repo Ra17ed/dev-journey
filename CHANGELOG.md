@@ -30,3 +30,4 @@
 [2024-12-13] #028: Add portfolio placeholder
 [2024-12-13] #029: Update card component
 [2024-12-14] #030: Fix image alt text
+[2024-12-15] #031: Add social media links
