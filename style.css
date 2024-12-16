@@ -32,7 +32,8 @@
   --step-029: 1; /* Update card component */
   --step-030: 1; /* Fix image alt text */
   --step-031: 1; /* Add social media links */
+  --step-032: 1; /* Update copyright year */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v31/100 */
+/* v32/100 */
