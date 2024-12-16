@@ -32,3 +32,4 @@
 [2024-12-14] #030: Fix image alt text
 [2024-12-15] #031: Add social media links
 [2024-12-16] #032: Update copyright year
+[2024-12-16] #033: Add favicon reference
