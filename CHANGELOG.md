@@ -34,3 +34,4 @@
 [2024-12-16] #032: Update copyright year
 [2024-12-16] #033: Add favicon reference
 [2024-12-18] #034: Improve button styles
+[2024-12-22] #035: Add dark mode support

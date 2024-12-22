@@ -35,7 +35,8 @@
   --step-032: 1; /* Update copyright year */
   --step-033: 1; /* Add favicon reference */
   --step-034: 1; /* Improve button styles */
+  --step-035: 1; /* Add dark mode support */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v34/100 */
+/* v35/100 */
