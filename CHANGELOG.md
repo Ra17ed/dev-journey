@@ -36,3 +36,4 @@
 [2024-12-18] #034: Improve button styles
 [2024-12-22] #035: Add dark mode support
 [2024-12-24] #036: Fix responsive breakpoints
+[2024-12-24] #037: Update grid layout
