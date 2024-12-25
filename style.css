@@ -39,7 +39,8 @@
   --step-036: 1; /* Fix responsive breakpoints */
   --step-037: 1; /* Update grid layout */
   --step-038: 1; /* Add projects section */
+  --step-039: 1; /* Improve heading hierarchy */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v38/100 */
+/* v39/100 */
