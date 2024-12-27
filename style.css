@@ -40,7 +40,8 @@
   --step-037: 1; /* Update grid layout */
   --step-038: 1; /* Add projects section */
   --step-039: 1; /* Improve heading hierarchy */
+  --step-040: 1; /* Fix margin inconsistencies */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v39/100 */
+/* v40/100 */

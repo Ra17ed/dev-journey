@@ -39,3 +39,4 @@
 [2024-12-24] #037: Update grid layout
 [2024-12-24] #038: Add projects section
 [2024-12-25] #039: Improve heading hierarchy
+[2024-12-27] #040: Fix margin inconsistencies
