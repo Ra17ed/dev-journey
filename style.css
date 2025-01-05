@@ -42,7 +42,8 @@
   --step-039: 1; /* Improve heading hierarchy */
   --step-040: 1; /* Fix margin inconsistencies */
   --step-041: 1; /* Add testimonials placeholder */
+  --step-042: 1; /* Update link colors */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v41/100 */
+/* v42/100 */

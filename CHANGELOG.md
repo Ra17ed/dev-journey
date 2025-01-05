@@ -41,3 +41,4 @@
 [2024-12-25] #039: Improve heading hierarchy
 [2024-12-27] #040: Fix margin inconsistencies
 [2024-12-27] #041: Add testimonials placeholder
+[2025-01-05] #042: Update link colors
