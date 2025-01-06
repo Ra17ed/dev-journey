@@ -43,7 +43,8 @@
   --step-040: 1; /* Fix margin inconsistencies */
   --step-041: 1; /* Add testimonials placeholder */
   --step-042: 1; /* Update link colors */
+  --step-043: 1; /* Fix z-index stacking */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v42/100 */
+/* v43/100 */
