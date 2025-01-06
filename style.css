@@ -44,7 +44,8 @@
   --step-041: 1; /* Add testimonials placeholder */
   --step-042: 1; /* Update link colors */
   --step-043: 1; /* Fix z-index stacking */
+  --step-044: 1; /* Add scroll-to-top button */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v43/100 */
+/* v44/100 */

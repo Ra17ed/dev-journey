@@ -43,3 +43,4 @@
 [2024-12-27] #041: Add testimonials placeholder
 [2025-01-05] #042: Update link colors
 [2025-01-06] #043: Fix z-index stacking
+[2025-01-06] #044: Add scroll-to-top button
