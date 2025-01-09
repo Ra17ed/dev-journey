@@ -46,7 +46,8 @@
   --step-043: 1; /* Fix z-index stacking */
   --step-044: 1; /* Add scroll-to-top button */
   --step-045: 1; /* Update border radius values */
+  --step-046: 1; /* Add animation on scroll */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v45/100 */
+/* v46/100 */
