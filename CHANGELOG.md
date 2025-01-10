@@ -46,3 +46,4 @@
 [2025-01-06] #044: Add scroll-to-top button
 [2025-01-08] #045: Update border radius values
 [2025-01-09] #046: Add animation on scroll
+[2025-01-10] #047: Fix overflow issues
