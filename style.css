@@ -49,7 +49,8 @@
   --step-046: 1; /* Add animation on scroll */
   --step-047: 1; /* Fix overflow issues */
   --step-048: 1; /* Update box shadow styles */
+  --step-049: 1; /* Add print stylesheet */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v48/100 */
+/* v49/100 */

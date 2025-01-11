@@ -48,3 +48,4 @@
 [2025-01-09] #046: Add animation on scroll
 [2025-01-10] #047: Fix overflow issues
 [2025-01-10] #048: Update box shadow styles
+[2025-01-11] #049: Add print stylesheet
