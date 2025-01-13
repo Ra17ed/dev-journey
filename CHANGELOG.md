@@ -50,3 +50,4 @@
 [2025-01-10] #048: Update box shadow styles
 [2025-01-11] #049: Add print stylesheet
 [2025-01-13] #050: Improve form styles
+[2025-01-13] #051: Add error state styles

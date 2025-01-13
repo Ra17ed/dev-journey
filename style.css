@@ -51,7 +51,8 @@
   --step-048: 1; /* Update box shadow styles */
   --step-049: 1; /* Add print stylesheet */
   --step-050: 1; /* Improve form styles */
+  --step-051: 1; /* Add error state styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v50/100 */
+/* v51/100 */
