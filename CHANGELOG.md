@@ -51,3 +51,4 @@
 [2025-01-11] #049: Add print stylesheet
 [2025-01-13] #050: Improve form styles
 [2025-01-13] #051: Add error state styles
+[2025-01-13] #052: Fix focus outline visibility

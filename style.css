@@ -52,7 +52,8 @@
   --step-049: 1; /* Add print stylesheet */
   --step-050: 1; /* Improve form styles */
   --step-051: 1; /* Add error state styles */
+  --step-052: 1; /* Fix focus outline visibility */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v51/100 */
+/* v52/100 */
