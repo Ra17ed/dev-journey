@@ -53,3 +53,4 @@
 [2025-01-13] #051: Add error state styles
 [2025-01-13] #052: Fix focus outline visibility
 [2025-01-21] #053: Update transition timing
+[2025-01-21] #054: Add skeleton loader styles
