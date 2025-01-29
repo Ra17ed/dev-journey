@@ -57,3 +57,4 @@
 [2025-01-22] #055: Fix flexbox alignment
 [2025-01-27] #056: Update padding values
 [2025-01-28] #057: Add tooltip component
+[2025-01-29] #058: Fix input placeholder color
