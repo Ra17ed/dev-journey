@@ -59,3 +59,4 @@
 [2025-01-28] #057: Add tooltip component
 [2025-01-29] #058: Fix input placeholder color
 [2025-02-07] #059: Add badge component
+[2025-02-13] #060: Update icon sizes
