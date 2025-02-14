@@ -61,7 +61,8 @@
   --step-058: 1; /* Fix input placeholder color */
   --step-059: 1; /* Add badge component */
   --step-060: 1; /* Update icon sizes */
+  --step-061: 1; /* Fix grid gap values */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v60/100 */
+/* v61/100 */
