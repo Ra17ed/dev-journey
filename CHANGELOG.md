@@ -62,3 +62,4 @@
 [2025-02-13] #060: Update icon sizes
 [2025-02-14] #061: Fix grid gap values
 [2025-02-14] #062: Add breadcrumb navigation
+[2025-02-16] #063: Update list item spacing
