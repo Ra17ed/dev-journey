@@ -64,7 +64,8 @@
   --step-061: 1; /* Fix grid gap values */
   --step-062: 1; /* Add breadcrumb navigation */
   --step-063: 1; /* Update list item spacing */
+  --step-064: 1; /* Fix table responsiveness */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v63/100 */
+/* v64/100 */
