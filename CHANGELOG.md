@@ -64,3 +64,4 @@
 [2025-02-14] #062: Add breadcrumb navigation
 [2025-02-16] #063: Update list item spacing
 [2025-02-17] #064: Fix table responsiveness
+[2025-02-21] #065: Add code block styling
