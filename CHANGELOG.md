@@ -65,3 +65,4 @@
 [2025-02-16] #063: Update list item spacing
 [2025-02-17] #064: Fix table responsiveness
 [2025-02-21] #065: Add code block styling
+[2025-02-23] #066: Update blockquote design

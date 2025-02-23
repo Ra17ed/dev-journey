@@ -66,7 +66,8 @@
   --step-063: 1; /* Update list item spacing */
   --step-064: 1; /* Fix table responsiveness */
   --step-065: 1; /* Add code block styling */
+  --step-066: 1; /* Update blockquote design */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v65/100 */
+/* v66/100 */
