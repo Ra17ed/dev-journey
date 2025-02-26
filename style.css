@@ -69,7 +69,8 @@
   --step-066: 1; /* Update blockquote design */
   --step-067: 1; /* Fix hr element styling */
   --step-068: 1; /* Add tag chip component */
+  --step-069: 1; /* Update modal overlay */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v68/100 */
+/* v69/100 */

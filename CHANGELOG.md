@@ -68,3 +68,4 @@
 [2025-02-23] #066: Update blockquote design
 [2025-02-23] #067: Fix hr element styling
 [2025-02-25] #068: Add tag chip component
+[2025-02-26] #069: Update modal overlay
