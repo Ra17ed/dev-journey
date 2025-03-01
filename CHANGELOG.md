@@ -69,3 +69,4 @@
 [2025-02-23] #067: Fix hr element styling
 [2025-02-25] #068: Add tag chip component
 [2025-02-26] #069: Update modal overlay
+[2025-03-01] #070: Fix dropdown menu styling

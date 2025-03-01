@@ -70,7 +70,8 @@
   --step-067: 1; /* Fix hr element styling */
   --step-068: 1; /* Add tag chip component */
   --step-069: 1; /* Update modal overlay */
+  --step-070: 1; /* Fix dropdown menu styling */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v69/100 */
+/* v70/100 */
