@@ -71,7 +71,8 @@
   --step-068: 1; /* Add tag chip component */
   --step-069: 1; /* Update modal overlay */
   --step-070: 1; /* Fix dropdown menu styling */
+  --step-071: 1; /* Add progress bar styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v70/100 */
+/* v71/100 */
