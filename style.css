@@ -73,7 +73,8 @@
   --step-070: 1; /* Fix dropdown menu styling */
   --step-071: 1; /* Add progress bar styles */
   --step-072: 1; /* Update alert component */
+  --step-073: 1; /* Fix notification styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v72/100 */
+/* v73/100 */
