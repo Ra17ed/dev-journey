@@ -76,7 +76,8 @@
   --step-073: 1; /* Fix notification styles */
   --step-074: 1; /* Add pagination component */
   --step-075: 1; /* Update avatar component */
+  --step-076: 1; /* Fix sidebar layout */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v75/100 */
+/* v76/100 */
