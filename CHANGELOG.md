@@ -78,3 +78,4 @@
 [2025-03-12] #076: Fix sidebar layout
 [2025-03-16] #077: Add tab navigation styles
 [2025-03-17] #078: Update accordion component
+[2025-03-17] #079: Fix sticky header behavior
