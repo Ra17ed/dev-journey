@@ -80,7 +80,8 @@
   --step-077: 1; /* Add tab navigation styles */
   --step-078: 1; /* Update accordion component */
   --step-079: 1; /* Fix sticky header behavior */
+  --step-080: 1; /* Add mega menu styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v79/100 */
+/* v80/100 */
