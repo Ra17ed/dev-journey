@@ -80,3 +80,4 @@
 [2025-03-17] #078: Update accordion component
 [2025-03-17] #079: Fix sticky header behavior
 [2025-03-20] #080: Add mega menu styles
+[2025-03-22] #081: Update search bar design
