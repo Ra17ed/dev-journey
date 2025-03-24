@@ -83,7 +83,8 @@
   --step-080: 1; /* Add mega menu styles */
   --step-081: 1; /* Update search bar design */
   --step-082: 1; /* Fix card grid layout */
+  --step-083: 1; /* Add timeline component */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v82/100 */
+/* v83/100 */

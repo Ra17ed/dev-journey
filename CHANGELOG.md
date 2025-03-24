@@ -82,3 +82,4 @@
 [2025-03-20] #080: Add mega menu styles
 [2025-03-22] #081: Update search bar design
 [2025-03-24] #082: Fix card grid layout
+[2025-03-24] #083: Add timeline component
