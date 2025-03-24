@@ -83,3 +83,4 @@
 [2025-03-22] #081: Update search bar design
 [2025-03-24] #082: Fix card grid layout
 [2025-03-24] #083: Add timeline component
+[2025-03-24] #084: Update stepper styles

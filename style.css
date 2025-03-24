@@ -84,7 +84,8 @@
   --step-081: 1; /* Update search bar design */
   --step-082: 1; /* Fix card grid layout */
   --step-083: 1; /* Add timeline component */
+  --step-084: 1; /* Update stepper styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v83/100 */
+/* v84/100 */
