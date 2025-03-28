@@ -85,7 +85,8 @@
   --step-082: 1; /* Fix card grid layout */
   --step-083: 1; /* Add timeline component */
   --step-084: 1; /* Update stepper styles */
+  --step-085: 1; /* Fix star rating display */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v84/100 */
+/* v85/100 */

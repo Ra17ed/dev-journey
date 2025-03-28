@@ -84,3 +84,4 @@
 [2025-03-24] #082: Fix card grid layout
 [2025-03-24] #083: Add timeline component
 [2025-03-24] #084: Update stepper styles
+[2025-03-28] #085: Fix star rating display
