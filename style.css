@@ -87,7 +87,8 @@
   --step-084: 1; /* Update stepper styles */
   --step-085: 1; /* Fix star rating display */
   --step-086: 1; /* Add chip input styles */
+  --step-087: 1; /* Update drag handle styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v86/100 */
+/* v87/100 */
