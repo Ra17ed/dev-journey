@@ -87,3 +87,4 @@
 [2025-03-28] #085: Fix star rating display
 [2025-03-29] #086: Add chip input styles
 [2025-03-31] #087: Update drag handle styles
+[2025-04-06] #088: Fix resize handle
