@@ -89,7 +89,8 @@
   --step-086: 1; /* Add chip input styles */
   --step-087: 1; /* Update drag handle styles */
   --step-088: 1; /* Fix resize handle */
+  --step-089: 1; /* Add collapsible styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v88/100 */
+/* v89/100 */
