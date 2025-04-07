@@ -89,3 +89,4 @@
 [2025-03-31] #087: Update drag handle styles
 [2025-04-06] #088: Fix resize handle
 [2025-04-06] #089: Add collapsible styles
+[2025-04-07] #090: Update divider component

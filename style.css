@@ -90,7 +90,8 @@
   --step-087: 1; /* Update drag handle styles */
   --step-088: 1; /* Fix resize handle */
   --step-089: 1; /* Add collapsible styles */
+  --step-090: 1; /* Update divider component */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v89/100 */
+/* v90/100 */
