@@ -92,7 +92,8 @@
   --step-089: 1; /* Add collapsible styles */
   --step-090: 1; /* Update divider component */
   --step-091: 1; /* Fix list group styling */
+  --step-092: 1; /* Add offcanvas panel styles */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v91/100 */
+/* v92/100 */

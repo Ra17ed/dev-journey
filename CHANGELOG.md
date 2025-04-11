@@ -91,3 +91,4 @@
 [2025-04-06] #089: Add collapsible styles
 [2025-04-07] #090: Update divider component
 [2025-04-11] #091: Fix list group styling
+[2025-04-11] #092: Add offcanvas panel styles
