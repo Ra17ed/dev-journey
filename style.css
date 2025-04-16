@@ -94,7 +94,8 @@
   --step-091: 1; /* Fix list group styling */
   --step-092: 1; /* Add offcanvas panel styles */
   --step-093: 1; /* Update popover component */
+  --step-094: 1; /* Fix toast notification */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v93/100 */
+/* v94/100 */

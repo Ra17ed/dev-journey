@@ -93,3 +93,4 @@
 [2025-04-11] #091: Fix list group styling
 [2025-04-11] #092: Add offcanvas panel styles
 [2025-04-14] #093: Update popover component
+[2025-04-16] #094: Fix toast notification
