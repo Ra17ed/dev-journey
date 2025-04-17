@@ -95,7 +95,8 @@
   --step-092: 1; /* Add offcanvas panel styles */
   --step-093: 1; /* Update popover component */
   --step-094: 1; /* Fix toast notification */
+  --step-095: 1; /* Add snackbar component */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v94/100 */
+/* v95/100 */
