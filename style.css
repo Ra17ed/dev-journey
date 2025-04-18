@@ -96,7 +96,8 @@
   --step-093: 1; /* Update popover component */
   --step-094: 1; /* Fix toast notification */
   --step-095: 1; /* Add snackbar component */
+  --step-096: 1; /* Update drawer component */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v95/100 */
+/* v96/100 */
