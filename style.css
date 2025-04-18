@@ -97,7 +97,8 @@
   --step-094: 1; /* Fix toast notification */
   --step-095: 1; /* Add snackbar component */
   --step-096: 1; /* Update drawer component */
+  --step-097: 1; /* Fix bottom sheet layout */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v96/100 */
+/* v97/100 */
