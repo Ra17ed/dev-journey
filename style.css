@@ -98,7 +98,8 @@
   --step-095: 1; /* Add snackbar component */
   --step-096: 1; /* Update drawer component */
   --step-097: 1; /* Fix bottom sheet layout */
+  --step-098: 1; /* Add floating action button */
 }
 
 body { margin: 0; font-family: sans-serif; }
-/* v97/100 */
+/* v98/100 */

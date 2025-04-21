@@ -97,3 +97,4 @@
 [2025-04-17] #095: Add snackbar component
 [2025-04-18] #096: Update drawer component
 [2025-04-18] #097: Fix bottom sheet layout
+[2025-04-21] #098: Add floating action button
