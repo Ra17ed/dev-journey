@@ -98,3 +98,4 @@
 [2025-04-18] #096: Update drawer component
 [2025-04-18] #097: Fix bottom sheet layout
 [2025-04-21] #098: Add floating action button
+[2025-04-23] #099: Update speed dial styles
